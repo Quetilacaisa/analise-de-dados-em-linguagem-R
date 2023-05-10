@@ -21,3 +21,4 @@ if (nota>=7){
   print("Reprovado")
 }
 
+
